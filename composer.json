@@ -1,5 +1,8 @@
 {
-    "name": "jakub-onderka/php-console-color",
+    "name": "scheldejonas/jakub-onderka-php-console-color",
+    "replace": {
+        "jakub-onderka/php-console-color": "*"
+    },
     "license": "BSD-2-Clause",
     "authors": [
         {
